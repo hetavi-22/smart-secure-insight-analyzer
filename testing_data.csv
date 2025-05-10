@@ -1,0 +1,2185 @@
+alert,risk,confidence,cweid,wascid
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Re-examine Cache-control Directives,Informational,Low,525,13
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Re-examine Cache-control Directives,Informational,Low,525,13
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Re-examine Cache-control Directives,Informational,Low,525,13
+Re-examine Cache-control Directives,Informational,Low,525,13
+Re-examine Cache-control Directives,Informational,Low,525,13
+Re-examine Cache-control Directives,Informational,Low,525,13
+Re-examine Cache-control Directives,Informational,Low,525,13
+Re-examine Cache-control Directives,Informational,Low,525,13
+Re-examine Cache-control Directives,Informational,Low,525,13
+Re-examine Cache-control Directives,Informational,Low,525,13
+Re-examine Cache-control Directives,Informational,Low,525,13
+Re-examine Cache-control Directives,Informational,Low,525,13
+Re-examine Cache-control Directives,Informational,Low,525,13
+Re-examine Cache-control Directives,Informational,Low,525,13
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Re-examine Cache-control Directives,Informational,Low,525,13
+Private IP Disclosure,Low,Medium,200,13
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Session Management Response Identified,Informational,Medium,-1,-1
+Session Management Response Identified,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Re-examine Cache-control Directives,Informational,Low,525,13
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Re-examine Cache-control Directives,Informational,Low,525,13
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Re-examine Cache-control Directives,Informational,Low,525,13
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Re-examine Cache-control Directives,Informational,Low,525,13
+Modern Web Application,Informational,Medium,-1,-1
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Re-examine Cache-control Directives,Informational,Low,525,13
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Cross-Domain JavaScript Source File Inclusion,Low,Medium,829,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Cross-Domain JavaScript Source File Inclusion,Low,Medium,829,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Cross-Domain JavaScript Source File Inclusion,Low,Medium,829,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Cookie without SameSite Attribute,Low,Medium,1275,13
+Cookie without SameSite Attribute,Low,Medium,1275,13
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Private IP Disclosure,Low,Medium,200,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Cross-Domain JavaScript Source File Inclusion,Low,Medium,829,15
+Modern Web Application,Informational,Medium,-1,-1
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Cross-Domain JavaScript Source File Inclusion,Low,Medium,829,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Cookie Without Secure Flag,Low,Medium,614,13
+Cookie Without Secure Flag,Low,Medium,614,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Secure Pages Include Mixed Content (Including Scripts),Medium,Medium,311,4
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Secure Pages Include Mixed Content (Including Scripts),Medium,Medium,311,4
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Modern Web Application,Informational,Medium,-1,-1
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Re-examine Cache-control Directives,Informational,Low,525,13
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Re-examine Cache-control Directives,Informational,Low,525,13
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Modern Web Application,Informational,Medium,-1,-1
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Re-examine Cache-control Directives,Informational,Low,525,13
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+User Controllable HTML Element Attribute (Potential XSS),Informational,Low,20,20
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+User Controllable HTML Element Attribute (Potential XSS),Informational,Low,20,20
+Strict-Transport-Security Header Not Set,Low,High,319,15
+CSP: Notices,Low,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+CSP: Wildcard Directive,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Re-examine Cache-control Directives,Informational,Low,525,13
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+CSP: style-src unsafe-inline,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+CSP: script-src unsafe-eval,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Information Disclosure - Suspicious Comments,Informational,Low,200,13
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Cross-Domain JavaScript Source File Inclusion,Low,Medium,829,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Modern Web Application,Informational,Medium,-1,-1
+Cross-Domain JavaScript Source File Inclusion,Low,Medium,829,15
+Modern Web Application,Informational,Medium,-1,-1
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+User Controllable HTML Element Attribute (Potential XSS),Informational,Low,20,20
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Cross-Domain JavaScript Source File Inclusion,Low,Medium,829,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Re-examine Cache-control Directives,Informational,Low,525,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Secure Pages Include Mixed Content (Including Scripts),Medium,Medium,311,4
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Re-examine Cache-control Directives,Informational,Low,525,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Modern Web Application,Informational,Medium,-1,-1
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Re-examine Cache-control Directives,Informational,Low,525,13
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Open Redirect,High,Medium,601,38
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Cross-Domain JavaScript Source File Inclusion,Low,Medium,829,15
+User Controllable HTML Element Attribute (Potential XSS),Informational,Low,20,20
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+User Controllable HTML Element Attribute (Potential XSS),Informational,Low,20,20
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Secure Pages Include Mixed Content (Including Scripts),Medium,Medium,311,4
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Modern Web Application,Informational,Medium,-1,-1
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Cross-Domain JavaScript Source File Inclusion,Low,Medium,829,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Modern Web Application,Informational,Medium,-1,-1
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Information Disclosure - Suspicious Comments,Informational,Low,200,13
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Cross-Domain JavaScript Source File Inclusion,Low,Medium,829,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Modern Web Application,Informational,Medium,-1,-1
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+User Controllable HTML Element Attribute (Potential XSS),Informational,Low,20,20
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Modern Web Application,Informational,Medium,-1,-1
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Cross-Domain JavaScript Source File Inclusion,Low,Medium,829,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Modern Web Application,Informational,Medium,-1,-1
+Information Disclosure - Suspicious Comments,Informational,Low,200,13
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Cross-Domain JavaScript Source File Inclusion,Low,Medium,829,15
+Modern Web Application,Informational,Medium,-1,-1
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Information Disclosure - Suspicious Comments,Informational,Low,200,13
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Information Disclosure - Suspicious Comments,Informational,Low,200,13
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Cross-Domain JavaScript Source File Inclusion,Low,Medium,829,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Information Disclosure - Suspicious Comments,Informational,Low,200,13
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Cross-Domain JavaScript Source File Inclusion,Low,Medium,829,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Modern Web Application,Informational,Medium,-1,-1
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Cross-Domain JavaScript Source File Inclusion,Low,Medium,829,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Cross-Domain JavaScript Source File Inclusion,Low,Medium,829,15
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Modern Web Application,Informational,Medium,-1,-1
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Modern Web Application,Informational,Medium,-1,-1
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Cross-Domain JavaScript Source File Inclusion,Low,Medium,829,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Cross-Domain JavaScript Source File Inclusion,Low,Medium,829,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Cross-Domain JavaScript Source File Inclusion,Low,Medium,829,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Modern Web Application,Informational,Medium,-1,-1
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Cross-Domain JavaScript Source File Inclusion,Low,Medium,829,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Cross-Domain JavaScript Source File Inclusion,Low,Medium,829,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Modern Web Application,Informational,Medium,-1,-1
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+User Controllable HTML Element Attribute (Potential XSS),Informational,Low,20,20
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Cross-Domain JavaScript Source File Inclusion,Low,Medium,829,15
+Modern Web Application,Informational,Medium,-1,-1
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Re-examine Cache-control Directives,Informational,Low,525,13
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Cross-Domain JavaScript Source File Inclusion,Low,Medium,829,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Modern Web Application,Informational,Medium,-1,-1
+Modern Web Application,Informational,Medium,-1,-1
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Cross-Domain JavaScript Source File Inclusion,Low,Medium,829,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+User Controllable HTML Element Attribute (Potential XSS),Informational,Low,20,20
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+User Controllable HTML Element Attribute (Potential XSS),Informational,Low,20,20
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Modern Web Application,Informational,Medium,-1,-1
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Cross-Domain JavaScript Source File Inclusion,Low,Medium,829,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Modern Web Application,Informational,Medium,-1,-1
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Missing Max-Age (Non-compliant with Spec),Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Modern Web Application,Informational,Medium,-1,-1
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Modern Web Application,Informational,Medium,-1,-1
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Modern Web Application,Informational,Medium,-1,-1
+Modern Web Application,Informational,Medium,-1,-1
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Modern Web Application,Informational,Medium,-1,-1
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Application Error Disclosure,Low,Medium,200,13
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Information Disclosure - Suspicious Comments,Informational,Low,200,13
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Modern Web Application,Informational,Medium,-1,-1
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Modern Web Application,Informational,Medium,-1,-1
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Re-examine Cache-control Directives,Informational,Low,525,13
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Modern Web Application,Informational,Medium,-1,-1
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+User Controllable JavaScript Event (XSS),Informational,Low,20,20
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+User Controllable JavaScript Event (XSS),Informational,Low,20,20
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+User Controllable JavaScript Event (XSS),Informational,Low,20,20
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Cross-Domain JavaScript Source File Inclusion,Low,Medium,829,15
+Cross-Domain JavaScript Source File Inclusion,Low,Medium,829,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Secure Pages Include Mixed Content (Including Scripts),Medium,Medium,311,4
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Secure Pages Include Mixed Content (Including Scripts),Medium,Medium,311,4
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Cross-Domain JavaScript Source File Inclusion,Low,Medium,829,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Secure Pages Include Mixed Content (Including Scripts),Medium,Medium,311,4
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Cross-Domain JavaScript Source File Inclusion,Low,Medium,829,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Application Error Disclosure,Low,Medium,200,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Re-examine Cache-control Directives,Informational,Low,525,13
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Re-examine Cache-control Directives,Informational,Low,525,13
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Re-examine Cache-control Directives,Informational,Low,525,13
+Re-examine Cache-control Directives,Informational,Low,525,13
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Re-examine Cache-control Directives,Informational,Low,525,13
+Private IP Disclosure,Low,Medium,200,13
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Application Error Disclosure,Low,Medium,200,13
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Modern Web Application,Informational,Medium,-1,-1
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Re-examine Cache-control Directives,Informational,Low,525,13
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Modern Web Application,Informational,Medium,-1,-1
+Application Error Disclosure,Low,Medium,200,13
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Application Error Disclosure,Low,Medium,200,13
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Application Error Disclosure,Low,Medium,200,13
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Modern Web Application,Informational,Medium,-1,-1
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Modern Web Application,Informational,Medium,-1,-1
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Application Error Disclosure,Low,Medium,200,13
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Application Error Disclosure,Low,Medium,200,13
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Application Error Disclosure,Low,Medium,200,13
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Re-examine Cache-control Directives,Informational,Low,525,13
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Session Management Response Identified,Informational,Medium,-1,-1
+Re-examine Cache-control Directives,Informational,Low,525,13
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Re-examine Cache-control Directives,Informational,Low,525,13
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Session Management Response Identified,Informational,Medium,-1,-1
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Re-examine Cache-control Directives,Informational,Low,525,13
+Secure Pages Include Mixed Content (Including Scripts),Medium,Medium,311,4
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Re-examine Cache-control Directives,Informational,Low,525,13
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Application Error Disclosure,Low,Medium,200,13
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Re-examine Cache-control Directives,Informational,Low,525,13
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Application Error Disclosure,Low,Medium,200,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Application Error Disclosure,Low,Medium,200,13
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Re-examine Cache-control Directives,Informational,Low,525,13
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Application Error Disclosure,Low,Medium,200,13
+Application Error Disclosure,Low,Medium,200,13
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Application Error Disclosure,Low,Medium,200,13
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Application Error Disclosure,Low,Medium,200,13
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Application Error Disclosure,Low,Medium,200,13
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Application Error Disclosure,Low,Medium,200,13
+Application Error Disclosure,Low,Medium,200,13
+Application Error Disclosure,Low,Medium,200,13
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Application Error Disclosure,Low,Medium,200,13
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Application Error Disclosure,Low,Medium,200,13
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Application Error Disclosure,Low,Medium,200,13
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Re-examine Cache-control Directives,Informational,Low,525,13
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Application Error Disclosure,Low,Medium,200,13
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Re-examine Cache-control Directives,Informational,Low,525,13
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Application Error Disclosure,Low,Medium,200,13
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Information Disclosure - Suspicious Comments,Informational,Low,200,13
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Application Error Disclosure,Low,Medium,200,13
+Information Disclosure - Suspicious Comments,Informational,Low,200,13
+Modern Web Application,Informational,Medium,-1,-1
+Modern Web Application,Informational,Medium,-1,-1
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Application Error Disclosure,Low,Medium,200,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Application Error Disclosure,Low,Medium,200,13
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Application Error Disclosure,Low,Medium,200,13
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Application Error Disclosure,Low,Medium,200,13
+Information Disclosure - Suspicious Comments,Informational,Low,200,13
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Information Disclosure - Suspicious Comments,Informational,Low,200,13
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Modern Web Application,Informational,Medium,-1,-1
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Information Disclosure - Suspicious Comments,Informational,Low,200,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Application Error Disclosure,Low,Medium,200,13
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Information Disclosure - Suspicious Comments,Informational,Low,200,13
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Modern Web Application,Informational,Medium,-1,-1
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Re-examine Cache-control Directives,Informational,Low,525,13
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Re-examine Cache-control Directives,Informational,Low,525,13
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Re-examine Cache-control Directives,Informational,Low,525,13
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Re-examine Cache-control Directives,Informational,Low,525,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Strict-Transport-Security Header Not Set,Low,High,319,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Charset Mismatch (Header Versus Meta Content-Type Charset),Informational,Low,436,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Charset Mismatch (Header Versus Meta Content-Type Charset),Informational,Low,436,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+Charset Mismatch (Header Versus Meta Content-Type Charset),Informational,Low,436,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+Charset Mismatch (Header Versus Meta Content-Type Charset),Informational,Low,436,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Charset Mismatch (Header Versus Meta Content-Type Charset),Informational,Low,436,15
+Charset Mismatch (Header Versus Meta Content-Type Charset),Informational,Low,436,15
+Charset Mismatch (Header Versus Meta Content-Type Charset),Informational,Low,436,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Charset Mismatch (Header Versus Meta Content-Type Charset),Informational,Low,436,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Charset Mismatch (Header Versus Meta Content-Type Charset),Informational,Low,436,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Charset Mismatch (Header Versus Meta Content-Type Charset),Informational,Low,436,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+Modern Web Application,Informational,Medium,-1,-1
+Information Disclosure - Suspicious Comments,Informational,Low,200,13
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+Modern Web Application,Informational,Medium,-1,-1
+User Controllable HTML Element Attribute (Potential XSS),Informational,Low,20,20
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+User Controllable HTML Element Attribute (Potential XSS),Informational,Low,20,20
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Charset Mismatch (Header Versus Meta Content-Type Charset),Informational,Low,436,15
+Charset Mismatch (Header Versus Meta Content-Type Charset),Informational,Low,436,15
+Charset Mismatch (Header Versus Meta Content-Type Charset),Informational,Low,436,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Charset Mismatch (Header Versus Meta Content-Type Charset),Informational,Low,436,15
+Charset Mismatch (Header Versus Meta Content-Type Charset),Informational,Low,436,15
+Charset Mismatch (Header Versus Meta Content-Type Charset),Informational,Low,436,15
+Authentication Request Identified,Informational,Low,-1,-1
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Charset Mismatch (Header Versus Meta Content-Type Charset),Informational,Low,436,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Charset Mismatch (Header Versus Meta Content-Type Charset),Informational,Low,436,15
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+Charset Mismatch (Header Versus Meta Content-Type Charset),Informational,Low,436,15
+Charset Mismatch (Header Versus Meta Content-Type Charset),Informational,Low,436,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Modern Web Application,Informational,Medium,-1,-1
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+Modern Web Application,Informational,Medium,-1,-1
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+Modern Web Application,Informational,Medium,-1,-1
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+Modern Web Application,Informational,Medium,-1,-1
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Charset Mismatch (Header Versus Meta Content-Type Charset),Informational,Low,436,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Charset Mismatch (Header Versus Meta Content-Type Charset),Informational,Low,436,15
+User Controllable HTML Element Attribute (Potential XSS),Informational,Low,20,20
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Modern Web Application,Informational,Medium,-1,-1
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Charset Mismatch (Header Versus Meta Content-Type Charset),Informational,Low,436,15
+Charset Mismatch (Header Versus Meta Content-Type Charset),Informational,Low,436,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+Charset Mismatch (Header Versus Meta Content-Type Charset),Informational,Low,436,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Charset Mismatch (Header Versus Meta Content-Type Charset),Informational,Low,436,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+Modern Web Application,Informational,Medium,-1,-1
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Modern Web Application,Informational,Medium,-1,-1
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+Charset Mismatch (Header Versus Meta Content-Type Charset),Informational,Low,436,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+Charset Mismatch (Header Versus Meta Content-Type Charset),Informational,Low,436,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+Charset Mismatch (Header Versus Meta Content-Type Charset),Informational,Low,436,15
+Charset Mismatch (Header Versus Meta Content-Type Charset),Informational,Low,436,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+Charset Mismatch (Header Versus Meta Content-Type Charset),Informational,Low,436,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Missing Anti-clickjacking Header,Medium,Medium,1021,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+Charset Mismatch (Header Versus Meta Content-Type Charset),Informational,Low,436,15
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+Content Security Policy (CSP) Header Not Set,Medium,High,693,15
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+Absence of Anti-CSRF Tokens,Medium,Low,352,9
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+"Server Leaks Version Information via ""Server"" HTTP Response Header Field",Low,High,200,13
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
+X-Content-Type-Options Header Missing,Low,Medium,693,15
+"Server Leaks Information via ""X-Powered-By"" HTTP Response Header Field(s)",Low,Medium,200,13
